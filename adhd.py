@@ -8,7 +8,7 @@ adhd()
 
 listas = {
     "Escuela": ["Hacer tarea de matemáticas", "Estudiar para el examen de historia"],
-    "Trabajo": ["Preparar presentación", "Enviar informe"]
+    "Trabajo": ["Preparar presentación", "Enviar informe"],
     "Vida": ["Dormir","Comer" ]
 }
 
