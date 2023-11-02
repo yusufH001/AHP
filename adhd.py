@@ -1,4 +1,3 @@
-
 # Nombre de la app AHP
 def adhd(): 
     print("Welcome to ADHD Help Program")
@@ -6,7 +5,7 @@ def adhd():
     input()
 
 adhd()
- 
+
 listas = {
     "Escuela": ["Hacer tarea de matemáticas", "Estudiar para el examen de historia"],
     "Trabajo": ["Preparar presentación", "Enviar informe"]
@@ -27,10 +26,11 @@ def agregar_tarea(lista):
     tarea = input(f"Ingrese una nueva tarea para la lista '{lista}': ")
     listas[lista].append(tarea)
     print(f"'{tarea}' ha sido añadido a la lista '{lista}'.")
- = ["1. Mostrar Listas", "2. Mostrar Tareas", "3. Añadir Tarea", "4. Salir"]
 
 while True:
     print("\nOpciones:")
+    opciones = ["1. Mostrar Listas", "2. Mostrar Tareas", "3. Añadir Tarea", "4. Salir"]
+
     for opcion in opciones:
         print(opcion)
 
