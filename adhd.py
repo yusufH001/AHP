@@ -9,7 +9,7 @@ adhd()
 listas = {
     "Escuela": ["Hacer tarea de matemáticas", "Estudiar para el examen de historia"],
     "Trabajo": ["Preparar presentación", "Enviar informe"]
-    #"Vida"[ ]
+    "Vida": ["Dormir","Comer" ]
 }
 
 def mostrar_listas():
