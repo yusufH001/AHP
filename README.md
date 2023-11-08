@@ -1,5 +1,5 @@
 # AHP (ADHD Help Program)
-#Overview
+Overview
 
 This program, named "AHP" (ADHD Help Program), is designed to assist individuals with ADHD in organizing their tasks and activities. It provides functionalities to create and manage lists of tasks for different aspects of life such as school, work, and personal life.
 Usage
@@ -28,7 +28,7 @@ agregar_tarea(lista)
 
     Description: Allows the user to add a new task to the specified list.
 
-#Options
+Options
 
     Mostrar Listas
         Description: Displays the available lists.
@@ -42,14 +42,14 @@ agregar_tarea(lista)
     Salir
         Description: Exits the program.
 
-#How to Use
+How to Use
 
-    Run the program.
+    Run the program (python3 adhd.py)
     Follow the on-screen instructions to navigate through the options.
     Select the desired option by entering the corresponding number.
     Follow any additional prompts to complete the selected task.
 
-#Notes
+Notes
 
     Ensure that you have Python installed on your system to run this program.
 
