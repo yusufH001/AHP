@@ -53,11 +53,9 @@ Notes
 
     Ensure that you have Python installed on your system to run this program.
 
-Author
+
 
 [Yusuf Rivas]
-Version
-
-#[V1.01]
+Version[V1.01]
 
 Feel free to customize this readme file with any additional information, instructions, or credits you find relevant for your specific use case.
