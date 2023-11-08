@@ -7,9 +7,9 @@ def adhd():
 adhd()
 
 listas = {
-    "Escuela": ["Hacer tarea de matemáticas", "Estudiar para el examen de historia"],
-    "Trabajo": ["Preparar presentación", "Enviar informe"],
-    "Vida": ["Dormir","Comer" ]
+        "Escuela": ["Hacer una lista de cosas que hacer.", "poner un poquito de musica o coran", "Allah is with you :)"],
+    "Trabajo": ["Cosas del dia ", "Cafe o Agua","Quran"],
+    "Vida": ["Ir al gym "," Hacer lista"," Buscar nuevas cosas que hacer","Leer Libros" ]
 }
 
 def mostrar_listas():
